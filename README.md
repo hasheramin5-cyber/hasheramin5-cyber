@@ -79,7 +79,7 @@
 
 ## FEATURED PROJECT
 
-### Chromi — Color Studio
+### Chromi | The Color Studio
 
 > **A professional color schema generator**, create complete palettes across HEX, RGB, RGBA, HSL, and more. Built for designers who think in systems, not swatches.
 
