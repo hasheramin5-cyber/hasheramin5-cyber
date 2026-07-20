@@ -78,8 +78,9 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 | Python | HTML | SQL | Git |
 | JavaScript | CSS | | GitHub |
 | Assembly | | | VS Code |
-| | | | OpenCV |
-| | | | NumPy |
+| C | | | OpenCV |
+| C++ | | | TensorFlow |
+| | | | PyTorch |
 
 </div>
 
