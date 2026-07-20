@@ -65,7 +65,7 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,opencv,numpy,html,css,js,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"/>
 
 </div>
 
