@@ -5,15 +5,17 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170"/>
+<img src="./top-banner.gif" alt="Top Banner"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Hasher+Amin;Developer+%26+Designer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+Something+New" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=850&lines=I'm+Hasher+Amin;Developer+%26+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
+/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=734828&style=for-the-badge"/>
 
 </div>
 
@@ -33,7 +35,7 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center" style="color:#DC40DD;">About Me</h2>
 
 I'm **Hasher Amin**, a passionate **Developer & Designer** from **Pakistan** who enjoys building practical software and turning ideas into real projects.
 
@@ -41,27 +43,27 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="mailto:hasheramin.5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-734828?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hasheramin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-011E45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hasheramin5-cyber">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-011E45?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
@@ -88,7 +90,7 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 
 <div align="center">
 
-###  "Code. Design. Create."
+### "Code. Design. Create."
 
 </div>
 
