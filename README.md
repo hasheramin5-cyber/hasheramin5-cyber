@@ -1,8 +1,3 @@
-
-<!-- ========================================================= -->
-<!--                     HASHER AMIN PROFILE                   -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img src="./top-banner.gif" alt="Top Banner"/>
@@ -10,40 +5,44 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=850&lines=I'm+Hasher+Amin;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=900&lines=I'm+Hasher+Amin;Developer+%26+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
 />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=734828&style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=for-the-badge&color=011E45"/>
+
 </div>
 
----
+<hr>
 
-<h1 align="center"> Hi, I'm Hasher Amin</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=100000&color=DC40DD&center=true&vCenter=true&width=500&lines=Hasher+Amin"/>
+</h1>
 
-<h3 align="center">
-Developer & Designer
+<h3 align="center" style="color:#A595A7;">
+Developer • Designer • AI Enthusiast
 </h3>
 
 <p align="center">
-
 Passionate about creating clean software, intelligent solutions, and beautiful user experiences.
-
 </p>
 
----
+<hr>
 
-<h2 align="center" style="color:#DC40DD;">About Me</h2>
+<h2 align="center">💜 About Me</h2>
 
-I'm **Hasher Amin**, a passionate **Developer & Designer** from **Pakistan** who enjoys building practical software and turning ideas into real projects.
+- 🇵🇰 Based in **Pakistan**
+- 🐍 Passionate about **Python Development**
+- 🤖 Exploring **Artificial Intelligence & Computer Vision**
+- ⚙️ Building **Automation** and practical software
+- 📚 Always learning something new every day
 
-I'm always eager to learn new technologies and continuously improve my skills. My interests include **Artificial Intelligence**, **Computer Vision**, **Automation**, and **Python**, and I enjoy creating solutions that solve real-world problems.
+<hr>
 
----
-
-## Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -61,9 +60,9 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 
 </div>
 
----
+<hr>
 
-## Languages & Tools
+## 💻 Languages & Tools
 
 <div align="center">
 
@@ -86,22 +85,20 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 
 </div>
 
----
+<hr>
 
 <div align="center">
 
-### "Code. Design. Create."
+### 💜 Code. Design. Create
 
 </div>
 
----
+<hr>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
-
-<!-- ========================================================= -->
