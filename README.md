@@ -10,7 +10,7 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=850&lines=I'm+Hasher+Amin;Developer+%26+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=850&lines=I'm+Hasher+Amin;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
 />
 
 <br>
@@ -91,6 +91,16 @@ I'm always eager to learn new technologies and continuously improve my skills. M
 <div align="center">
 
 ### "Code. Design. Create."
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
