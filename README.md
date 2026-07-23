@@ -5,7 +5,7 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=900&lines=I'm+Hasher+Amin;Developer+%26+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=900&lines=Hi,+I%27m+Hasher+Amin;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
 />
 
 <br>
@@ -18,12 +18,10 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&durat
 
 <hr>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=100000&color=DC40DD&center=true&vCenter=true&width=500&lines=Hasher+Amin"/>
-</h1>
+<h1 align="center">Hasher Amin</h1>
 
-<h3 align="center" style="color:#A595A7;">
-Developer • Designer • AI Enthusiast
+<h3 align="center">
+Developer • Designer • Curious Builder
 </h3>
 
 <p align="center">
@@ -32,17 +30,17 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <hr>
 
-<h2 align="center">💜 About Me</h2>
+## About Me
 
-- 🇵🇰 Based in **Pakistan**
-- 🐍 Passionate about **Python Development**
-- 🤖 Exploring **Artificial Intelligence & Computer Vision**
-- ⚙️ Building **Automation** and practical software
-- 📚 Always learning something new every day
+- I'm a Developer and Designer from **Pakistan**.
+- I mainly work with **Python** and enjoy building useful software.
+- I'm exploring **Artificial Intelligence**, **Computer Vision**, and **Automation**.
+- I love learning new technologies and turning ideas into real-world projects.
+- I'm always learning and improving with every project I build.
 
 <hr>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -55,14 +53,14 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 </a>
 
 <a href="https://github.com/hasheramin5-cyber">
-<img src="https://img.shields.io/badge/GitHub-011E45?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DC40DD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <hr>
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
@@ -72,30 +70,17 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <br>
 
+<hr>
+
 <div align="center">
 
-| Programming | Frontend | Database | Tools |
-|:-----------:|:--------:|:--------:|:-----:|
-| Python | HTML | SQL | Git |
-| JavaScript | CSS | | GitHub |
-| Assembly | | | VS Code |
-| C | | | OpenCV |
-| C++ | | | TensorFlow |
-| | | | PyTorch |
+### Code. Design. Create.
 
 </div>
 
 <hr>
 
-<div align="center">
-
-### 💜 Code. Design. Create
-
-</div>
-
-<hr>
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
