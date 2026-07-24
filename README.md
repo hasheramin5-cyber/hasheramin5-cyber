@@ -3,7 +3,7 @@
 <img src="./assets/MyEye.gif" alt="Top Banner"/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E+%2E+%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E%2E%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
 />
 
 <br>
