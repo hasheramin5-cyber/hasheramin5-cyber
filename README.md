@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="./top-banner.gif" alt="Top Banner"/>
-
-<br><br>
+<img src="./assets/MyEye.gif" alt="Top Banner"/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=DC40DD&center=true&vCenter=true&width=900&lines=Hi,+I%27m+Hasher+Amin;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+.+.+.;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
 />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=734828&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=000000&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=for-the-badge&color=011E45"/>
+<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=for-the-badge&color=000000"/>
 
 </div>
 
@@ -44,16 +42,16 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <div align="center">
 
-<a href="mailto:hasheramin.5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-734828?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:hasheramin5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hasheramin">
-<img src="https://img.shields.io/badge/LinkedIn-011E45?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hasheramin5-cyber">
-<img src="https://img.shields.io/badge/GitHub-DC40DD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
