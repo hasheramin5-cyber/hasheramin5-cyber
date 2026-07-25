@@ -62,7 +62,7 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"/>
 
 </div>
 
