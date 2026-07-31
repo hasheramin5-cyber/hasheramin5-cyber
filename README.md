@@ -30,7 +30,7 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 ## About Me
 
-- I'm a Developer and Designer from **Pakistan**.
+- I'm a Developer and Designer from **Earth**.
 - I mainly work with **Python** and enjoy building useful software.
 - I'm exploring **Artificial Intelligence**, **Computer Vision**, and **Automation**.
 - I love learning new technologies and turning ideas into real-world projects.
@@ -62,7 +62,10 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"/>
+<img
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"
+  style="filter: grayscale(100%);"
+/>
 
 </div>
 
