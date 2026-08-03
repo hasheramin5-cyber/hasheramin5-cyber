@@ -64,11 +64,12 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"/>
 
-<img src="./assets/numpy.svg" width="48" alt="NumPy"/>
-<img src="./assets/matplotlib.png" width="48" alt="Matplotlib"/>
-<img src="./assets/pandas.svg" width="48" alt="Pandas"/>
-<img src="./assets/ipynb.png" width="48" alt="Jupyter Notebook"/>
-<img src="./assets/asm.svg" width="48" alt="Assembly Language"/>
+<br>
+<img src="./assets/icons/numpyC.svg" width="48" alt="NumPy"/>
+<img src="./assets/icons/matplotlibC.png" width="48" alt="Matplotlib"/>
+<img src="./assets/icons/pandasC.svg" width="48" alt="Pandas"/>
+<img src="./assets/icons/ipynbC.png" width="48" alt="Jupyter Notebook"/>
+<img src="./assets/icons/asmC.svg" width="48" alt="Assembly Language"/>
 
 </div>
 
