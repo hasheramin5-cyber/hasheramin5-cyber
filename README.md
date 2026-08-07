@@ -70,6 +70,7 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 <img src="./assets/icons/pandasC.svg" width="48" alt="Pandas"/>
 <img src="./assets/icons/ipynbC.png" width="48" alt="Jupyter Notebook"/>
 <img src="./assets/icons/asmC.svg" width="48" alt="Assembly Language"/>
+<img src="./assets/icons/cuda.svg" width="48" alt="CUDA Programming"/>
 
 </div>
 
