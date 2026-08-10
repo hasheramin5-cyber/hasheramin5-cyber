@@ -1,0 +1,51 @@
+name: Rotate Weekly Banner
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Select banner for today
+        run: |
+          DAY=$(date +%u)
+
+          case "$DAY" in
+            1) BANNER="01.gif" ;;
+            2) BANNER="02.gif" ;;
+            3) BANNER="03.gif" ;;
+            4) BANNER="04.gif" ;;
+            5) BANNER="05.gif" ;;
+            6) BANNER="06.gif" ;;
+            7) BANNER="07.gif" ;;
+          esac
+
+          echo "Today's banner: $BANNER"
+
+          cp "assets/weekly-banners/$BANNER" \
+             "assets/weekly-banners/current.gif"
+
+      - name: Commit banner change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/weekly-banners/current.gif
+
+          if git diff --cached --quiet; then
+            echo "No banner change needed."
+            exit 0
+          fi
+
+          git commit -m "chore: rotate weekly profile banner"
+          git push
