@@ -43,15 +43,15 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 <div align="center">
 
 <a href="mailto:hasheramin5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="assets/icons/gmail.png" width="48" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hasheramin">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="assets/icons/linkedin.png" width="48" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/hasheramin5-cyber">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://twitter.com/YOUR_USERNAME">
+  <img src="assets/icons/twitter.png" width="48" alt="X (Twitter)"/>
 </a>
 
 </div>
