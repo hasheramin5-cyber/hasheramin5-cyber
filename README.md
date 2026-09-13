@@ -54,6 +54,10 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
   <img src="assets/icons/twitter.png" width="48" alt="X (Twitter)"/>
 </a>
 
+<br>
+
+[![DevConnect](https://devconnectplatform.com/api/badge/hasheramin)](https://devconnectplatform.com/u/hasheramin?ref=badge)
+
 </div>
 
 <hr>
