@@ -56,7 +56,9 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <br>
 
-[![DevConnect](https://devconnectplatform.com/api/badge/hasheramin)](https://devconnectplatform.com/u/hasheramin?ref=badge)
+<a href="https://devconnectplatform.com/u/hasheramin">
+  <img src="assets/icons/devconnect.png" width="48" alt="DevConnect"/>
+</a>
 
 </div>
 
