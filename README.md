@@ -54,10 +54,14 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
   <img src="assets/icons/twitter.png" width="48" alt="X (Twitter)"/>
 </a>
 
+<a href="https://www.youtube.com/@de_hasheramin">
+  <img src="assets/icons/youtube.png" width="48" alt="YouTube"/>
+</a>
+
 <br>
 
-<a href="https://devconnectplatform.com/u/hasheramin">
-  <img src="assets/icons/devconnect.png" width="48" alt="DevConnect"/>
+<a href="https://hasheramin5-cyber.github.io/">
+  <img src="assets/icons/portfolio.png" width="200" alt="My Portfolio"/>
 </a>
 
 </div>
@@ -68,15 +72,7 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,git,github,githubactions,vscode,html,css,js,mysql&theme=dark"/>
-
-<br>
-<img src="./assets/icons/numpyC.svg" width="48" alt="NumPy"/>
-<img src="./assets/icons/matplotlibC.png" width="48" alt="Matplotlib"/>
-<img src="./assets/icons/pandasC.svg" width="48" alt="Pandas"/>
-<img src="./assets/icons/ipynbC.png" width="48" alt="Jupyter Notebook"/>
-<img src="./assets/icons/asmC.svg" width="48" alt="Assembly Language"/>
-<img src="./assets/icons/cuda.svg" width="48" alt="CUDA Programming"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,kotlin,arduino,mysql,anaconda,tensorflow,pytorch,opencv,androidstudio,git,github,githubactions,vscode&theme=dark&perline=9"/>
 
 </div>
 
