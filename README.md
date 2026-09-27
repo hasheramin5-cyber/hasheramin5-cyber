@@ -50,6 +50,10 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
   <img src="assets/icons/linkedin.png" width="48" alt="LinkedIn"/>
 </a>
 
+<a href="https://www.instagram.com/de_hasheramin">
+  <img src="assets/icons/insta.png" width="48" alt="Instagram"/>
+</a>
+
 <a href="https://twitter.com/hasheramin_code">
   <img src="assets/icons/twitter.png" width="48" alt="X (Twitter)"/>
 </a>
