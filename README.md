@@ -1,101 +1,58 @@
-<div align="center">
-
-<img src="./assets/scena.gif" alt="Top Banner"/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=BFBFBF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E+%2E+%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
-/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=000000&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=for-the-badge&color=000000"/>
-
-</div>
-
-<hr>
-
-<h1 align="center">Hasher Amin</h1>
-
-<h3 align="center">
-Developer • Designer • Curious Builder
-</h3>
-
-<p align="center">
-Passionate about creating clean software, intelligent solutions, and beautiful user experiences.
-</p>
-
-<hr>
-
-## About Me
-
-- I'm a Developer and Designer from **Earth**.
-- I mainly work with **Python** and enjoy building useful software.
-- I'm exploring **Artificial Intelligence**, **Computer Vision**, and **Automation**.
-- I love learning new technologies and turning ideas into real-world projects.
-- I'm always learning and improving with every project I build.
-
-<hr>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:hasheramin5@gmail.com">
-  <img src="assets/icons/gmail.png" width="48" alt="Email"/>
+<a href="https://github.com/hasheramin5-cyber">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/main/dark_mode.svg">
+    <img alt="Hasher Amin GitHub Profile" src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/main/light_mode.svg">
+  </picture>
 </a>
 
-<a href="https://www.linkedin.com/in/hasheramin">
-  <img src="assets/icons/linkedin.png" width="48" alt="LinkedIn"/>
-</a>
+---
 
-<a href="https://www.instagram.com/de_hasheramin">
-  <img src="assets/icons/insta.png" width="48" alt="Instagram"/>
-</a>
+## About
 
-<a href="https://twitter.com/hasheramin_code">
-  <img src="assets/icons/twitter.png" width="48" alt="X (Twitter)"/>
-</a>
+I’m a curious builder exploring Artificial Intelligence, Machine Learning, Computer Vision, and creative technology. I build projects with Python, experiment with neural networks and AI systems, and enjoy turning ideas into practical tools, visual experiences, and open-source projects.
 
-<a href="https://www.youtube.com/@de_hasheramin">
-  <img src="assets/icons/youtube.png" width="48" alt="YouTube"/>
-</a>
+---
 
-<br>
+## Tech Stack
 
-<a href="https://hasheramin5-cyber.github.io/">
-  <img src="assets/icons/portfolio.png" width="200" alt="My Portfolio"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Seaborn-4C72B0?style=flat\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat\&logo=nvidia\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat\&logo=arduino\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat\&logo=ruby\&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat\&logo=nvidia\&logoColor=white)
 
-</div>
+---
 
-<hr>
+## Featured Projects
 
-## Languages & Tools
+| Repo | Description | Stars |
+| ------ | ------------- | ------- |
+| [Python-Practice-Repository](https://github.com/hasheramin5-cyber/Python-Practice-Repository) | A collection of Python practice and projects | 6 |
+| [TinyMLP](https://github.com/hasheramin5-cyber/TinyMLP) | Tiny neural network library built from scratch | 2 |
+| [CUDA](https://github.com/hasheramin5-cyber/CUDA) | Hands-on CUDA, GPU programming, and parallel computing | 1 |
+| [MNIST-NeuralVision](https://github.com/hasheramin5-cyber/MNIST-NeuralVision) | Interactive handwritten digit recognition using MNIST | 3 |
+| [TermTint](https://github.com/hasheramin5-cyber/TermTint) | Lightweight, zero-dependency Python library for styled terminal output | 5 |
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,kotlin,ruby,mysql,anaconda,tensorflow,pytorch,opencv,androidstudio,git,github,githubactions,vscode&theme=dark&perline=9"/>
-
-</div>
-
-<br>
-
-<hr>
-
-<div align="center">
-
-### Code. Design. Create.
-
-</div>
-
-<hr>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/hasheramin-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hasheramin)
+[![X](https://img.shields.io/badge/@hasheramin__code-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/hasheramin_code)
+[![Instagram](https://img.shields.io/badge/@de__hasheramin-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/de_hasheramin)
+[![Website](https://img.shields.io/badge/Portfolio-hasheramin5--cyber.github.io-000000?style=flat\&logo=safari\&logoColor=white)](https://hasheramin5-cyber.github.io/)
