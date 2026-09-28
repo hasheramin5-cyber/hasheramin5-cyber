@@ -1,42 +1,6 @@
 <div align="center">
 
-<img src="./assets/scena.gif" alt="Top Banner"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=BFBFBF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E+%2E+%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
-/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=000000&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=for-the-badge&color=000000"/>
-
-</div>
-
-<hr>
-
-<h1 align="center">Hasher Amin</h1>
-
-<h3 align="center">
-Developer • Designer • Curious Builder
-</h3>
-
-<p align="center">
-Passionate about creating clean software, intelligent solutions, and beautiful user experiences.
-</p>
-
-<hr>
-
-## About Me
-
-- I'm a Developer and Designer from **Earth**.
-- I mainly work with **Python** and enjoy building useful software.
-- I'm exploring **Artificial Intelligence**, **Computer Vision**, and **Automation**.
-- I love learning new technologies and turning ideas into real-world projects.
-- I'm always learning and improving with every project I build.
-
-<hr>
 
 ## Connect With Me
 
