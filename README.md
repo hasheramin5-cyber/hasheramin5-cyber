@@ -1,7 +1,13 @@
 <a href="https://github.com/hasheramin5-cyber">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/main/dark_mode.svg">
-    <img alt="Hasher Amin GitHub Profile" src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/main/light_mode.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/main/dark_mode.svg"
+    >
+    <img
+      alt="Hasher Amin GitHub Profile"
+      src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/main/light_mode.svg"
+    >
   </picture>
 </a>
 
