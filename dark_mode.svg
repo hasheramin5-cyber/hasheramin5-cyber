@@ -61,6 +61,6 @@ text, tspan {white-space: pre;}
 <tspan x="410" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">hasheramin5-cyber</tspan>
 <tspan x="410" y="450">- GitHub Stats —————————————————————————————————————</tspan>
 <tspan x="410" y="470" class="cc">. </tspan><tspan class="key">Contributions</tspan>:<tspan class="cc" id="contrib_dots"> ..................... </tspan><tspan class="value" id="contrib_data">451 last year</tspan>
-<tspan x="410" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> </tspan><tspan class="value" id="repos_data">15</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> </tspan><tspan class="value" id="stars_data">16</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> </tspan><tspan class="value" id="followers_data">14</tspan>
+<tspan x="410" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> </tspan><tspan class="value" id="repos_data">15</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> </tspan><tspan class="value" id="stars_data">17</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> </tspan><tspan class="value" id="followers_data">14</tspan>
 </text>
 </svg>
