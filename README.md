@@ -4,6 +4,12 @@
 
 </div>
 
+<p align="right">
+  <a href="https://hasheramin5-cyber.github.io/" style="text-decoration: none;">
+    <span style="color: #bfbfbf;"><i><b>~ Hasher Amin</b></i></span>
+  </a>
+</p>
+
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=BFBFBF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E+%2E+%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"/> -->
 
 <!-- <br><br> ![Profile Views](https://komarev.com)
