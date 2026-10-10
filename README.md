@@ -4,13 +4,11 @@
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=BFBFBF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E+%2E+%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"/> -->
 
-<br><br>
-
-![Profile Views](https://komarev.com)
-![Followers](https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=flat&color=000000)
+<!-- <br><br> ![Profile Views](https://komarev.com)
+![Followers](https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=flat&color=000000) -->
 
 
-<hr>
+<br>
 
 <img src="./assets/Name.png" alt="MyName" height="50" />
 
