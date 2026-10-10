@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="./assets/scena.gif" alt="Top Banner"/>
+<img src="./assets/roundgitty.png" alt="Top Banner"/>
 
-<img
+<!-- <img
 src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=BFBFBF&center=true&vCenter=true&width=900&lines=Hasher+Amin+Here+%2E+%2E+%2E;Developer+and+Designer;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"
-/>
+/> -->
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=000000&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=hasheramin5-cyber&label=Profile%20Views&color=000000&style=flat"/>
 
-<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=for-the-badge&color=000000"/>
+<img src="https://img.shields.io/github/followers/hasheramin5-cyber?label=Followers&style=flat&color=000000"/>
 
 </div>
 
 <hr>
 
-<h1 align="center">Hasher Amin</h1>
+<div align="center">
 
-<h3 align="center">
-Developer • Designer • Curious Builder
-</h3>
+<img src="./assets/Name.png" alt="MyName" height="50" />
 
-<p align="center">
+</div>
+
+<!-- <p align="center">
 Passionate about creating clean software, intelligent solutions, and beautiful user experiences.
 </p>
 
-<hr>
+<hr> -->
 
 ## About Me
 
@@ -43,23 +43,23 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 <div align="center">
 
 <a href="mailto:hasheramin5@gmail.com">
-  <img src="assets/icons/gmail.png" width="48" alt="Email"/>
+  <img src="assets/icons/gmail-b.png" width="48" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hasheramin">
-  <img src="assets/icons/linkedin.png" width="48" alt="LinkedIn"/>
+  <img src="assets/icons/linkedin-b.png" width="48" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/de_hasheramin">
-  <img src="assets/icons/insta.png" width="48" alt="Instagram"/>
+  <img src="assets/icons/insta-b.png" width="48" alt="Instagram"/>
 </a>
 
 <a href="https://twitter.com/hasheramin_code">
-  <img src="assets/icons/twitter.png" width="48" alt="X (Twitter)"/>
+  <img src="assets/icons/twitter-b.png" width="48" alt="X (Twitter)"/>
 </a>
 
 <a href="https://www.youtube.com/@de_hasheramin">
-  <img src="assets/icons/youtube.png" width="48" alt="YouTube"/>
+  <img src="assets/icons/youtube-b.png" width="48" alt="YouTube"/>
 </a>
 
 <br>
@@ -77,25 +77,5 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,kotlin,ruby,mysql,anaconda,tensorflow,pytorch,opencv,androidstudio,git,github,githubactions,vscode&theme=dark&perline=9"/>
-
-</div>
-
-<br>
-
-<hr>
-
-<div align="center">
-
-### Code. Design. Create.
-
-</div>
-
-<hr>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hasheramin5-cyber/hasheramin5-cyber/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
