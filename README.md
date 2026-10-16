@@ -55,7 +55,7 @@
 <a href="mailto:hasheramin5@gmail.com">
   <img src="assets/icons/gmail-b.png" width="48" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/hasheramin">
+<a href="https://www.linkedin.com/in/de-hasheramin">
   <img src="assets/icons/linkedin-b.png" width="48" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/de_hasheramin">
@@ -82,6 +82,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,kotlin,ruby,mysql,anaconda,tensorflow,pytorch,opencv,androidstudio,git,github,githubactions,vscode&theme=dark&perline=9" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,dart,ruby,html,css,mysql,anaconda,scikitlearn,tensorflow,pytorch,opencv,kotlin,flutter,androidstudio,git,github,githubactions,vscode&theme=light&perline=7" alt="Skills"/>
 
 </div>
