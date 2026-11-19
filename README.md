@@ -5,7 +5,7 @@
         <img
           src="https://gitranks.com/badge/user/hasheramin5-cyber/profile-card.svg?logo=0"
           alt="Hasher Amin on GitRanks"
-          width="600"
+          width="400"
         />
       </a>
     </td>
@@ -18,10 +18,6 @@
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
 
 ### Localization
 
