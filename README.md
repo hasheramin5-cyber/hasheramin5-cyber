@@ -1,10 +1,9 @@
-<img align="right" src="retro_banner.gif" alt="Top Banner" width="40%"/>
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=last+seen+falling+since+2026;no+signal;offline,+mostly" alt="Typing animation" width="20%"/>
-
 ***Hasher Amin***<br>
 *Just a normal person*
 
-```json
+<img align="right" src="retro_banner_bw.gif" alt="Top Banner" width="40%"/>
+
+```text
 {
   "name": "Hasher Amin",
   "status": "offline",
@@ -23,3 +22,5 @@
   }
 }
 ```
+
+<br clear="right"/>
