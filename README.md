@@ -3,7 +3,7 @@
 
 <img align="right" src="retro_banner_bw.gif" alt="Top Banner" width="40%"/>
 
-```text
+```json
 {
   "name": "Hasher Amin",
   "status": "offline",
