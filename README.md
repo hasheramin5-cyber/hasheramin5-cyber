@@ -3,7 +3,7 @@
 
 <img align="right" src="retro_banner_bw.gif" alt="Top Banner" width="40%"/>
 
-```json
+<pre>
 {
   "name": "Hasher Amin",
   "status": "offline",
@@ -15,12 +15,12 @@
     "coordinates": "30.3753° N, 69.3451° E (Pakistan)"
   },
   "contact": {
-    "mail": "hasheramin.5@gmail.com",
-    "linkedin": "de-hasheramin",
-    "x": "hasheramin_code",
-    "medium": "hasheramin"
+    "mail": "<a href="mailto:hasheramin.5@gmail.com">hasheramin.5@gmail.com</a>",
+    "linkedin": "<a href="https://www.linkedin.com/in/de-hasheramin">de-hasheramin</a>",
+    "x": "<a href="https://x.com/hasheramin_code">hasheramin_code</a>",
+    "medium": "<a href="https://medium.com/@hasheramin">hasheramin</a>"
   }
 }
-```
+</pre>
 
 <br clear="right"/>
