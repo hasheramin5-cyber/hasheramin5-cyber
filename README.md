@@ -25,4 +25,4 @@
 
 <br clear="right"/>
 
-![gitartwork](gitartwork.svg)
+![ContribArt](gitartwork.svg)

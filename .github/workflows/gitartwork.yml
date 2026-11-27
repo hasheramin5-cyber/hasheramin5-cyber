@@ -1,16 +1,22 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: hasheramin5-cyber
-            # Text on contribution graph 
-            text: GITHUB
-       - uses: jasineri/simple-push-action@v1
+name: Generate ContribArt SVG
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Make ContribArt SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hasheramin5-cyber/ContribArt@v1
+        with:
+          user_name: hasheramin5-cyber
+          text: Hasher
+      - name: Commit and push generated SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Update ContribArt SVG" && git push)
