@@ -24,3 +24,5 @@
 </pre>
 
 <br clear="right"/>
+
+![gitartwork](gitartwork.svg)
