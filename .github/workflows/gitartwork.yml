@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: hasheramin5-cyber
             # Text on contribution graph 
-            text: HASHER
+            text: GITHUB
        - uses: jasineri/simple-push-action@v1
