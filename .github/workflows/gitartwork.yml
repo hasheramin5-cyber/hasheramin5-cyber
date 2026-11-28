@@ -13,7 +13,7 @@ jobs:
       - uses: hasheramin5-cyber/ContribArt@v1
         with:
           user_name: hasheramin5-cyber
-          text: Hasher
+          text: ♥
       - name: Commit and push generated SVG
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
